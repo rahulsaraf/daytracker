@@ -1,0 +1,1 @@
+This is day tracker, this application help user to store daily events, and then user can query on the historical events.
